@@ -1,0 +1,2 @@
+client ID: 1069216155967-12ifg48gvre9bsv67tv8hon4ivnpv3qq.apps.googleusercontent.com 
+Client secret: 8TTSCl5ilh0hs6DmSHn6vlRp 

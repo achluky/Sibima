@@ -1,0 +1,4 @@
+[13-Apr-2015 00:29:48 UTC] PHP Fatal error:  Call to undefined method _ba::get_data_export() in /home/bm/public_html/sibima/application/controllers/ba.php on line 170
+[13-Apr-2015 00:29:52 UTC] PHP Fatal error:  Call to undefined method _ba::get_data_export() in /home/bm/public_html/sibima/application/controllers/ba.php on line 170
+[09-May-2015 02:12:33 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/bm/public_html/sibima/application/views/pages/nilai/v_nilai.php on line 69
+[09-May-2015 02:12:36 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/bm/public_html/sibima/application/views/pages/nilai/v_nilai.php on line 69

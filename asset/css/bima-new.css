@@ -1,0 +1,70 @@
+.naone {
+	max-width: 400px;
+	max-height:200px;
+    padding: 5px;
+	border: 3px solid rgba(0, 0, 0, 0.2);
+	border-radius: 0px;
+    position: absolute;
+    color: #000;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	margin: auto;
+	text-align: center;
+}
+body.chooseKelompok {
+	background-position: center center;
+	background-size: cover;
+	background-color:rgba(250,250,250,0.5);
+}
+.tulis {
+	margin-top: -20px;
+	text-align: center;
+}
+.btn-block {
+	padding: 15px;
+	font-size: 20px;
+}
+.choose-group {
+	border:3px;
+}
+.
+.box-info{
+	margin-left: -20px;
+}
+.btn-choose {
+	font-size: 32px;
+	font-weight: 600;
+	width: 150px;
+	padding: 25px;
+	text-align: center;
+	display: inline-block;
+	margin: 10px;
+	border-radius : 25px;
+	height: 100px
+}
+.choose-group li.chosen {
+	background-color: rgb(247, 247, 248);
+}
+.box-info{
+	margin-left: -20px;
+}
+
+/**
+Alert
+*/
+@keyframes fading{
+    from {opacity: 1; display: block;}
+    to {display: none; opacity: 0;}
+}
+.alert-notif{
+	animation: fading 2s ease-in-out forwards;
+}
+
+/**
+Table
+*/
+.act-col{
+	min-width: 204px;
+}
